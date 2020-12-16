@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98211d7a-efc2-4b3d-8076-873e7d70ce0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljupuydLevbn9IA0P3ud6RbRGZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.StudentAndAdminTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.excercise.Main" />
+      <module name="StudentManagement" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentAndAdminTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.excercise.StudentAndAdminTest" />
+      <module name="StudentManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.excercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StudentAndAdminTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentAndAdminTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98211d7a-efc2-4b3d-8076-873e7d70ce0c" name="Default Changelist" comment="" />
+      <created>1608123007577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608123007577</updated>
+      <workItem from="1608123011799" duration="3130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1608124402579">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="488" y="99" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738@0.30.1366.738" timestamp="1608124402579" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1608127863700">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1608127863700" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1608127863700">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1608127863700" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1608127863700">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1608127863700" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1608127863700">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1608127863700" />
+  </component>
+</project>

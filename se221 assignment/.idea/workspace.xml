@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae7c9649-4ae1-4771-8d58-967d7667b96b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kUyhDs7twWHxBMfUqdnT3wKgg4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DemoShipment">
+    <configuration name="DemoShipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se221.assignment.DemoShipment" />
+      <module name="se221 assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se221.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se221.assignment.DemoSuper" />
+      <module name="se221 assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se221.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.excercise.Main" />
+      <module name="se221 assignment" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DemoSuper" />
+      <item itemvalue="Application.DemoShipment" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoShipment" />
+        <item itemvalue="Application.DemoSuper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae7c9649-4ae1-4771-8d58-967d7667b96b" name="Default Changelist" comment="" />
+      <created>1605769581681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605769581681</updated>
+      <workItem from="1605769589549" duration="7790000" />
+      <workItem from="1605805491670" duration="4329000" />
+      <workItem from="1605953363163" duration="6227000" />
+      <workItem from="1606558946432" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom" timestamp="1605979059033">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1605979059033" />
+    <state width="1323" height="116" key="GridCell.Tab.0.center" timestamp="1605979059030">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1605979059030" />
+    <state width="1323" height="116" key="GridCell.Tab.0.left" timestamp="1605979059021">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1605979059021" />
+    <state width="1323" height="116" key="GridCell.Tab.0.right" timestamp="1605979059031">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1605979059031" />
+    <state x="379" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1606558944314">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="379" y="222" key="com.intellij.ide.util.TipDialog/0.32.1366.736@0.32.1366.736" timestamp="1606558944314" />
+    <state x="65" y="32" key="new project wizard" timestamp="1606559167756">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="65" y="32" key="new project wizard/0.32.1366.736@0.32.1366.736" timestamp="1606559167756" />
+  </component>
+</project>
