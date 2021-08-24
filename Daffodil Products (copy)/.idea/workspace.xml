@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280da7ff-f78e-4ad5-a495-fe087cde560b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Daffodil Products/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Daffodil Products/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1lk5Y6FmSfkrI0qHyznlSDbFBka" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Daffodil Products (copy)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,11 +39,11 @@
   </component>
   <component name="RunManager" selected="Application.DaffodilProducts">
     <configuration name="DaffodilProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daffodilProducts.DaffodilProducts" />
-      <module name="Daffodil Products" />
+      <option name="MAIN_CLASS_NAME" value="com.IMS.DaffodilProducts" />
+      <module name="IMS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daffodilProducts.*" />
+          <option name="PATTERN" value="com.IMS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,21 +53,10 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.daffodilwater.Main" />
-      <module name="Daffodil Products" />
+      <module name="IMS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,7 +83,6 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,11 +95,29 @@
       <updated>1608128292927</updated>
       <workItem from="1608128297178" duration="285000" />
       <workItem from="1608458342169" duration="5330000" />
-      <workItem from="1619255437496" duration="115000" />
+      <workItem from="1620325213038" duration="6000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1608466861895">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1608466861895" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1608466861895">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1608466861895" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1608466861895">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1608466861895" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1608466861895">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1608466861895" />
   </component>
 </project>
